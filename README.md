@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-* [About](#about)
-* [Projects](#projects)
+* [About](about)
+* [Projects Completed](projectscompleted)
 * [Topics Covered](topicscovered)
-* [Tools](#tools)
+* [Tools](tools)
 
 ## About
 
@@ -14,6 +14,7 @@ As an ALX Student who is undertaking the Software Engineering Program; we are pr
 ## Projects
 
 1. [0x00-shell_basics](./0x00-shell_basics)
+2. [0x01-shell_permissions](./0x01-shell_permissions)
 
 ## Topics Covered
 
@@ -30,7 +31,12 @@ In the 0x00-shell_basics course, we covered the following topics and resources:
 - LTS
 - SheBang
 
+In the 0x01-shell_permissions course, we covered the following topic and resource:
+
+- Permissions
+
 ## Tools
+* Ubuntu 20.04 LTS
+* Allowed editors: vi, vim, emacs
 * ShellCheck - shell script analysis tool
 version: 0.7.0
-* Ubuntu 20.04 LTS
