@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [About](about)
-* [Projects Completed](projectscompleted)
+* [Projects](projects)
 * [Topics Covered](topicscovered)
 * [Tools](tools)
 
@@ -15,6 +15,7 @@ As an ALX Student who is undertaking the Software Engineering Program; we are pr
 
 1. [0x00-shell_basics](./0x00-shell_basics)
 2. [0x01-shell_permissions](./0x01-shell_permissions)
+3. [0x02-shell_redirections](./0x02-shell_redirections)
 
 ## Topics Covered
 
@@ -34,6 +35,11 @@ In the 0x00-shell_basics course, we covered the following topics and resources:
 In the 0x01-shell_permissions course, we covered the following topic and resource:
 
 - Permissions
+
+In the 0x02-shell_redirections course, we covered the following topic and resource:
+
+- Shell, I/O Redirection
+- Special Characters
 
 ## Tools
 * Ubuntu 20.04 LTS
