@@ -1,16 +1,10 @@
 # Project: 0x02. Shell, I/O Redirections and filters
 
-## What is the Shell?
-
-Your interface to the operating system is called a shell. The shell is the outermost layer of the operating system. Shells incorporate a programming language to control processes and files, as well as to start and control other programs.
-
-Simply put, the shell is a program that takes commands from the keyboard and gives them to the operating system to perform.
-
-## Shell I/O redirection
+## What is Shell I/O Redirection?
 
 I/O redirection is accomplished using a redirection operator which allows the user to specify the input or output data be redirected to (or from) a file.
 
-## Filters
+## What is LINUX Filters?
 
 In UNIX/Linux, filters are the set of commands that take input from standard input stream i.e. stdin, perform some operations and write output to standard output stream i.e. stdout. The stdin and stdout can be managed as per preferences using redirection and pipes. 
 Common filter commands are: `grep`, `more`, `sort`.
