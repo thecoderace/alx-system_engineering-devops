@@ -902,6 +902,3 @@ s150.phxslip4.indirect.com
 torben.dou.dk
 julien@ubuntu:/tmp/0x02$
 ```
-n](./103-the_biggest_fan) -  most requests.
-* Order by number of requests, most active host or IP at the top
-* You are not allowed to use grep, egrep, fgrep or rgrep
