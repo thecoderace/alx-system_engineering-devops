@@ -6,6 +6,7 @@
 * [Projects](projects)
 * [Topics Covered](topicscovered)
 * [Tools](tools)
+* [Author](author)
 
 ## About
 
@@ -56,3 +57,7 @@ In the [0x03-shell_variables_expansions](./0x03-shell_variables_expansions) cour
 * Allowed editors: vi, vim, emacs
 * ShellCheck - shell script analysis tool
 version: 0.7.0
+
+## Author
+
+[Jk](https://github.com/thecoderace)
